@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Web Development Project 2 - *SAT/ACT Study Guide*
 
 Submitted by: **Samantha Milo**
@@ -45,7 +44,6 @@ https://www.loom.com/share/f1e1c8c44eb642a88b4736f8b0b9e6df?sid=e23563ea-554d-46
 I struggled with properly combining the events, useStates, and components.
 
 ## License
-
     Copyright [2025] [Samantha Milo]
 
     Licensed under the Apache License, Version 2.0 (the "License");
@@ -56,6 +54,5 @@ I struggled with properly combining the events, useStates, and components.
 
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
-=======
+=============================================================================
 
->>>>>>> 874019f4588ffa6478eaee7d1c58d0f0b23ee72e
