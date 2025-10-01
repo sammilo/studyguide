@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Web Development Project 2 - *SAT/ACT Study Guide*
 
 Submitted by: **Samantha Milo**
@@ -55,3 +56,6 @@ I struggled with properly combining the events, useStates, and components.
 
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
+=======
+
+>>>>>>> 874019f4588ffa6478eaee7d1c58d0f0b23ee72e
